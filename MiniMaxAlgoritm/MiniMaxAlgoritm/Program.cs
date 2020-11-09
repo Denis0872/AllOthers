@@ -14,7 +14,7 @@ namespace MiniMaxAlgoritm
     {
 
         static int[] MinimaxArray = new int[6];
-        //static int[] MinimaxArray = new int[] { -3, 11, 3, 5, 7, -12 };
+        //static int[] MinimaxArray = new int[]    { -3, 11, 3, 5, 7, -12 };
         static int LndMax;
         static int LndMin;
         private static int[] MetodEnter()
