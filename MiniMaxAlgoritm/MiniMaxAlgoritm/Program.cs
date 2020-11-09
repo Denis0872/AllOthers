@@ -60,8 +60,6 @@ namespace MiniMaxAlgoritm
                 Console.WriteLine("LndMax=" + " " + LndMax); //вывод максимального значения
                 Console.WriteLine("LndMin=" + " " + LndMin);//  вывод минимального значения
             }
-
-
             static void Main(string[] args)
             {
                 ClassLibrary1.Engine eng = new ClassLibrary1.Engine();
