@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxAlgoritm", "MiniMaxAlgoritm\MiniMaxAlgoritm.csproj", "{B6F2547A-6212-41D0-A4B3-757BE4044604}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{169D3A28-E83E-4BC5-924B-CB661CCD7C42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B6F2547A-6212-41D0-A4B3-757BE4044604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6F2547A-6212-41D0-A4B3-757BE4044604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6F2547A-6212-41D0-A4B3-757BE4044604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169D3A28-E83E-4BC5-924B-CB661CCD7C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169D3A28-E83E-4BC5-924B-CB661CCD7C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169D3A28-E83E-4BC5-924B-CB661CCD7C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169D3A28-E83E-4BC5-924B-CB661CCD7C42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
